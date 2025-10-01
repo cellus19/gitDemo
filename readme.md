@@ -16,3 +16,16 @@ git push origin --tags          # Push tags to main branch
 
 ```
 
+```
+
+Things will use actively
+
+```
+```
+git add -A
+git commit -m "<msg>"
+git checkout <branch>
+git merge <branch>
+```
+
+
