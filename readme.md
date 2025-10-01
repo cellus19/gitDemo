@@ -9,5 +9,7 @@ git commit -m "commit msg"      # Commit files -m is message argument
 git add -A                      # Adds all changes, creations, deletions to stage.
 git branch                      # list of all branches
 git checkout -b <branchname>    # Create new Branch
+git checkout <branch>           # Checks out existing branch/
+git merge <branch>              # Merge specificed branch into current branch.
 ```
 
