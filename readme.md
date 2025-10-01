@@ -11,5 +11,8 @@ git branch                      # list of all branches
 git checkout -b <branchname>    # Create new Branch
 git checkout <branch>           # Checks out existing branch/
 git merge <branch>              # Merge specificed branch into current branch.
+git tag -a 'verNum' -m msg      # Tag the recent commit
+git push origin --tags          # Push tags to main branch
+
 ```
 
